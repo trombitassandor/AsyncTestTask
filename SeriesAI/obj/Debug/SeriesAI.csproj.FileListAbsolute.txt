@@ -1,0 +1,7 @@
+C:\_sandor.trombitas\work\VisualStudio\SeriesAI\SeriesAI\obj\Debug\SeriesAI.csproj.AssemblyReference.cache
+C:\_sandor.trombitas\work\VisualStudio\SeriesAI\SeriesAI\obj\Debug\SeriesAI.csproj.CoreCompileInputs.cache
+C:\_sandor.trombitas\work\VisualStudio\SeriesAI\SeriesAI\bin\Debug\SeriesAI.exe.config
+C:\_sandor.trombitas\work\VisualStudio\SeriesAI\SeriesAI\bin\Debug\SeriesAI.exe
+C:\_sandor.trombitas\work\VisualStudio\SeriesAI\SeriesAI\bin\Debug\SeriesAI.pdb
+C:\_sandor.trombitas\work\VisualStudio\SeriesAI\SeriesAI\obj\Debug\SeriesAI.exe
+C:\_sandor.trombitas\work\VisualStudio\SeriesAI\SeriesAI\obj\Debug\SeriesAI.pdb
